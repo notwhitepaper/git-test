@@ -9,4 +9,6 @@
 
 * pull해서 다운받아 봄
 
+[호스팅주소](https://notwhitepaper.github.io/git-test/)
+
 -
